@@ -1,17 +1,31 @@
-### Hi there 👋 Folks , this is pritika shukla 
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Pritika+Shukla%F0%9F%91%8B;"/>
+</div>
+
+## About Me
+<p style="font-size:7px;">
+Being a tech enthusiast and a college student, my curiosity is sparked by the possibilities of technology and the open-source world. My current focus lies in full stack web development, where I'm more inclined towards backend development and devops side. Alongside my technical pursuits, I find pleasure in expressing myself creatively through writing blogs and exploring new technologied. Engaging with podcasts and books is another cherished hobby of mine, as I love to expand my knowledge and gain valuable insights from diverse sources. My ultimate goal is to make valuable contributions to the tech community while gaining experience and seeking meaningful connections.
+</p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+## Technologies
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=java,c&theme=dark"></td>
+</tr>
+</table>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+## Github Stats
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api?username=pritika-shukla&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://streak-stats.demolab.com/?user=pritika-shukla&theme=holi-theme">
+</p>
 
 
-<!--
-**Pritika-Shukla/Pritika-Shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
